@@ -1,1 +1,2 @@
-# adam-proxy
+# additional-information-proxy
+proxy for Zill-Woah!
